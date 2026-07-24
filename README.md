@@ -16,4 +16,4 @@
 
 ###
 
-[atabook](https://pining.atabook.org)　　[pronouns.cc](https://pronouns.cc/@dangomilk)
+[rentry](https://rentry.org/jellover)　　[atabook](https://pining.atabook.org)　　[pronouns.cc](https://pronouns.cc/@dangomilk)
