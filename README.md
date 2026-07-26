@@ -1,6 +1,6 @@
 <div align="center">
   <details>
-<summary>$\text{\color{#BCD8BE}𓋜ㅤㅤ⁺ㅤㅤノㅤㅤ⬞ ׄ ㅤㅤㅤ´｀ㅤㅤ𓈒 ㅤㅤ❀}$ </summary>
+<summary>ㅤ𓋜ㅤㅤ⁺ㅤㅤノㅤㅤ⬞ ׄ ㅤㅤㅤ´｀ㅤㅤ𓈒 ㅤㅤ❀ </summary>
 
 ###
 
