@@ -1,6 +1,6 @@
 <div align="center">
   <details>
-<summary>ㅤ𓊆𓏼 ̣̣ㅤ ༘ㅤ𓏏𓏏ㅤ⸝⸝ㅤㅤ◞  ℘ </summary>
+<summary>$\text{\color{#BCD8BE}𓋜ㅤㅤ⁺ㅤㅤノㅤㅤ⬞ ׄ ㅤㅤㅤ´｀ㅤㅤ𓈒 ㅤㅤ❀}$ </summary>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=spirumiru&color=788E91&style=flat-square&label=blue+orchids>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=spirumiru&color=BCD8BE&style=flat-square&label=blue+orchids>
 
 
 ###
